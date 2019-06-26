@@ -1,0 +1,9 @@
+pyTelegramBotAPI
+pyowm
+emoji
+time
+datetime
+schedule
+emoji
+random
+requests
